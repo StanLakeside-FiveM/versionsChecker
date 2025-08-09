@@ -1,0 +1,7 @@
+# Ogólne założenia rozgrywki
+
+*
+* ##
+*
+
+dsadsadsa
