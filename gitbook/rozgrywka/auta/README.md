@@ -10,6 +10,7 @@ Po wejściu do auta pod F1(menu kołowe) pojawią się dwie dodatkowe opcje.
 
 <mark style="color:green;">**Zacznijmy od podstaw.**</mark> \
 Żeby odpalić auto należy użyj opcji **STACYJKA.** W ten sposób włożysz kluczyk do stacyjki. W ten sam sposób wyjmiesz ten kluczyk jeżeli był on w stacyjce.\
+\
 Następnie przejdźmy do opcji **POJAZD**
 
 <figure><img src="../../.gitbook/assets/obraz_2025-08-13_182459507.png" alt=""><figcaption></figcaption></figure>
