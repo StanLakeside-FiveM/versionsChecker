@@ -16,7 +16,7 @@
 * [🕹️ Rozgrywka](rozgrywka/README.md)
   * [Ogólne założenia rozgrywki](rozgrywka/ogolne-zalozenia-rozgrywki.md)
   * [Klawiszologia](rozgrywka/klawiszologia.md)
-  * [Głod i pragnienie](rozgrywka/glod-i-pragnienie.md)
+  * [Elementy interfejsu - HUD](rozgrywka/glod-i-pragnienie.md)
   * [Interakcja](rozgrywka/interakcja.md)
   * [Dokumenty](rozgrywka/dokumenty.md)
   * [Auta](rozgrywka/auta.md)
