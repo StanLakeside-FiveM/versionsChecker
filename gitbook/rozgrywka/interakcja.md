@@ -2,7 +2,7 @@
 
 **Jedno z podstawowych miejsc w które będziesz zaglądać. Czyli menu(koło wyboru) pod&#x20;**<mark style="color:red;">**F1.**</mark>
 
-<figure><img src="../../.gitbook/assets/obraz_2025-08-13_180306058.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/obraz_2025-08-13_180306058.png" alt=""><figcaption></figcaption></figure>
 
 Dzięki tej opcji będziesz mógł w łatwy sposób tworzyć dokumenty/umowy, sprawdzać dokładnie stan swojego zdrowia, wkładać bądź zabierać kluczyki ze stacyjki bądź też otwierać lub zamykać drzwi w aucie.&#x20;
 
