@@ -26,4 +26,4 @@
   * [Praca](rozgrywka/praca.md)
   * [Crafting](rozgrywka/crafting/README.md)
     * [Surowce](rozgrywka/crafting/surowce.md)
-  * [Page](rozgrywka/page.md)
+    * [Page](rozgrywka/crafting/page.md)

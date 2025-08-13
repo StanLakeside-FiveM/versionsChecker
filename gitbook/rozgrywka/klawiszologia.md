@@ -1,3 +1,3 @@
 # Klawiszologia
 
-CZEKAM AZ W KOŃCU DOSTANE&#x20;
+CZEKAM AŻ W KOŃCU DOSTANE&#x20;
